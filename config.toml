@@ -17,14 +17,14 @@ title = "Centre for Household Finance"
 
   [params.homepage]
     sticky_header = true
-    show_contact_box = true      # show / hide the contact box on the homepage
+    show_contact_box = false      # show / hide the contact box on the homepage
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop_height = "60px"
     alt = "Stellenbosch University - Centre for Household Finance"
 
   [params.fonts]
@@ -67,14 +67,9 @@ title = "Centre for Household Finance"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3
 
   # Footer Menu
   [[menu.footer]]
