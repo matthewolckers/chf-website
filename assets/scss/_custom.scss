@@ -1,0 +1,172 @@
+.header {
+    background-color: #61223b; 
+}
+
+
+
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-blackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-bolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-extrabolditalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-extralightitalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-lightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-mediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-semibolditalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SU Raleway';
+    src: 
+        local(''),
+        url('../fonts/SU-raleway-thinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+body {
+    font-family: 'SU Raleway', sans-serif;
+}
