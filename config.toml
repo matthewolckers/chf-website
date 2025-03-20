@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Centre for Household Finance"
 
 [module]
   [module.hugoVersion]
@@ -17,7 +17,7 @@ title = "Hugo Serif Theme"
 
   [params.homepage]
     sticky_header = true
-    show_contact_box = true      # show / hide the contaxt box on the homepage
+    show_contact_box = true      # show / hide the contact box on the homepage
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
@@ -25,25 +25,25 @@ title = "Hugo Serif Theme"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Stellenbosch University - Centre for Household Finance"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
-    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
-    heading = "Playfair Display"
-    base = "Source Sans Pro"
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'
+    heading = "Raleway"
+    base = "Raleway"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#61223b"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
+    # meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
@@ -52,13 +52,13 @@ title = "Hugo Serif Theme"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    # copyright_text = ''
 
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Research"
+    url = "/research/"
     weight = 1
 
   [[menu.main]]
