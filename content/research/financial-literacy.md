@@ -1,12 +1,12 @@
 ---
-title: "Superannuation"
-date: 2018-11-28T15:14:54+10:00
+title: "Financial Literacy"
+date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 5
+weight: 4
 ---
 
-We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.
+Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.
 <!--more-->
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)

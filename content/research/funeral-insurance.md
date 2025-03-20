@@ -1,15 +1,13 @@
 ---
-title: "Business Sales"
-date: 2018-11-28T15:15:26+10:00
-featured: true
+title: "Funeral Insurance"
+date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 3
+featured: true
+weight: 1
 ---
 
-Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.
+Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 <!--more-->
-It entails various activities such as valuing the business, identifying potential buyers, negotiating the terms of the sale, conducting due diligence, and finalizing the transaction.
-
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
